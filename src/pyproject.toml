@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/pypa/sampleproject"
-"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
+"Homepage" = "https://github.com/andreass0/HAM4D_VIE_Toolbox"
+"Bug Tracker" = "https://github.com/andreass0/HAM4D_VIE_Toolbox/issues"
