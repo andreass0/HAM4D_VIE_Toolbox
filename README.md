@@ -5,7 +5,7 @@ This package is a collection of functions used to manipulate and work with the r
 The package can be installed via pip with this code:
 
 ``` python
-pip install -i https://test.pypi.org/simple/ HAM4D-VIE-Toolbox==0.0.1
+pip install -i https://test.pypi.org/simple/ HAM4D-VIE-Toolbox==<version_number>
 ```
 
 > **Warning**
