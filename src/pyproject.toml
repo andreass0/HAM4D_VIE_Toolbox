@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build"
+
+[project]
+name = "HAM4D_VIE_Toolbox"
+version = "0.0.1"
+authors = [
+  { name="Andreas Sarkany", email="" },
+]
+description = "Package with functions to work with HAM4D_VIE results"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pypa/sampleproject"
+"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
